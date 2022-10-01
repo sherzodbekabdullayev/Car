@@ -1,0 +1,39 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    max-width: 1200px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+
+button {
+    font-family: 'Comfortaa' ,sans-serif;
+    cursor: pointer;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+}
+
+a, li{
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+    font-family: 'Comfortaa' ,sans-serif;
+}
+h1, h3{
+    color: #fff;
+    font-family: 'Comfortaa' ,sans-serif;
+}
+div{
+    color: #fff;
+    font-family: 'Comfortaa' ,sans-serif;
+}
+p{
+    font-family: 'Comfortaa' ,sans-serif;
+    color: #fff;
+}
